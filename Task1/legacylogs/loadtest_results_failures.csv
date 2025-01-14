@@ -1,0 +1,5 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegral/0.0/3.14159,"ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x....>, 'Connection to 52.136.234.32 timed out. (connect timeout=None)')",130
+GET,/numericalintegral/0.0/3.14159,RemoteDisconnected('Remote end closed connection without response'),1
+GET,/numericalintegral/0.0/3.14159,"ConnectionRefusedError(61, 'Connection refused')",107
+GET,/numericalintegral/0.0/3.14159,HTTPError('502 Server Error: Bad Gateway for url: /numericalintegral/0.0/3.14159'),6
