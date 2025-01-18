@@ -103,3 +103,4 @@ celerybeat-schedule
 *.sage.py
 .python_packages
 Azure-Lab2-Deliverable.docx
+.github/
