@@ -1,7 +1,6 @@
 # Azure Cloud Labs
 
-Part of EURECOM's **Distributed Systems and Cloud Computing** course.
-
+Part of EURECOM's Distributed Systems and Cloud Computing course.
 Series of hands-on Azure tasks covering:
 
 -   Microservices & Load Testing
